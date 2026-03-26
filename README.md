@@ -5,7 +5,7 @@ Key Work Performed:
 Cleaned and prepared raw healthcare data by handling missing values(imputed using quartile function), removing duplicates, and standardizing formats.
 Performed exploratory data analysis to identify trends in patient admissions, treatment costs, and hospital performance.
 Used Pivot Tables and Pivot Charts to summarize large datasets efficiently.
-Applied Excel formulas such as IF, VLOOKUP/XLOOKUP, COUNTIFS, SUMIFS, and conditional formatting.
+Applied Excel formulas such as IF,Nested IF, SUMIFS,Quartile function and conditional formatting.
 Generated insights to highlight cost drivers, Spread of Dieases, and patient distribution patterns.
 Tools & Skills:
 Advanced Excel, Data Cleaning, Data Analysis, Pivot Tables, Data Visualization.
